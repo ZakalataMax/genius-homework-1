@@ -37,7 +37,6 @@
 }
 /* BASE */
 body {
-  background-color: violet;
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
   font-size: 22px;
@@ -62,7 +61,7 @@ a {
   border-radius: 32px;
   border: 2px solid var(--color-brand-lightblue);
   cursor: pointer;
-  font-family: 'Roboto', sans-serif !important;
+  font-family: 'Roboto', sans-serif;
   font-weight: 600;
   font-size: 18px;
 }
